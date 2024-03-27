@@ -3,7 +3,7 @@
 
 记录今天学到的方法：
 
-1. 在Twitter开发者平台( https://developer.twitter.com)上创建一个开发者账号和应用程序。
+1. 在Twitter开发者平台( https://developer.twitter.com) 上创建一个开发者账号和应用程序。
 
 2. 进入“项目和应用程序”页面，创建一个新的项目。
 
